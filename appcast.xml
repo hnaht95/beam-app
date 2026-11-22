@@ -4,11 +4,11 @@
         <title>Beam Host</title>
         <item>
             <title>0.1.0</title>
-            <pubDate>Sun, 22 Nov 2026 14:01:04 +0700</pubDate>
-            <sparkle:version>33</sparkle:version>
+            <pubDate>Sun, 22 Nov 2026 22:02:26 +0700</pubDate>
+            <sparkle:version>41</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/hnaht95/beam-app/releases/download/mac-33/Beam-0.1.0-33.zip" length="14993346" type="application/octet-stream" sparkle:edSignature="CpUQWBZm1bYdp30sy1yrR+9S37yeg3ZleDeIzIVtTrQ2f72T9r7CzcS1vU17G9dsRJFlplVBC4PxmuHKM+UWCg=="/>
+            <enclosure url="https://github.com/hnaht95/beam-app/releases/download/mac-41/Beam-0.1.0-41.zip" length="14994621" type="application/octet-stream" sparkle:edSignature="TmXveMs06qYU28WlJUUwDhEoh9i1d1X5P8Xh/tXCAFf8d1DsPYkfmkNKBedCfPyby7mw36WZm9YoYcPbLZggBA=="/>
         </item>
     </channel>
 </rss>
