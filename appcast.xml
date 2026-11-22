@@ -4,8 +4,8 @@
         <title>Beam Host</title>
         <item>
             <title>0.1.0</title>
-            <pubDate>Mon, 23 Nov 2026 00:44:42 +0700</pubDate>
-            <sparkle:version>45</sparkle:version>
+            <pubDate>Mon, 23 Nov 2026 01:14:44 +0700</pubDate>
+            <sparkle:version>46</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<style>
@@ -34,11 +34,13 @@ code {
   background: rgba(128, 128, 128, 0.18);
 }
 </style>
-<h2>Có gì mới ở 0.1.0 (45)</h2>
+<h2>Có gì mới ở 0.1.0 (46)</h2>
 <h3>Đã sửa</h3>
-<ul><li>Bật độ phân giải động trên máy Mac có nhiều màn hình: Dock và các cửa sổ ở màn hình phụ không còn bị mất khỏi hình.</li></ul>
+<ul><li>Các nút Mission Control, Cửa sổ ứng dụng và Màn hình nền trong cửa sổ điều khiển máy Mac khác đã hoạt động. Máy được điều khiển cũng cần cập nhật bản này.</li><li>Phím tắt có phím mũi tên hoặc phím F gửi sang Mac (như Control cùng mũi tên trái, phải để chuyển màn hình làm việc) giờ được nhận đúng.</li></ul>
+<h3>Đã thay đổi</h3>
+<ul><li>Biểu tượng trên thanh công cụ của cửa sổ điều khiển giống app Chia sẻ màn hình của Apple.</li></ul>
 ]]></description>
-            <enclosure url="https://github.com/hnaht95/beam-app/releases/download/mac-45/Beam-0.1.0-45.zip" length="15039883" type="application/octet-stream" sparkle:edSignature="uWN8HDkYJodf9NXyCvEWvobp6B4WBtxrxuM+cHatJyF7F7rqtrsuXqvd40VvlKec/IrjNYBtv6avTCV1ITNbDw=="/>
+            <enclosure url="https://github.com/hnaht95/beam-app/releases/download/mac-46/Beam-0.1.0-46.zip" length="15048028" type="application/octet-stream" sparkle:edSignature="AP9gti/ffUauZXjjMA1S9ag22nH0waNjintUpzxYQ+FMNIr+6Wx1YTVPs51KE2BQq4DM3zdyRJuGX2CwHp7TCQ=="/>
         </item>
     </channel>
 </rss>
