@@ -4,8 +4,8 @@
         <title>Beam Host</title>
         <item>
             <title>0.1.0</title>
-            <pubDate>Sun, 22 Nov 2026 22:30:19 +0700</pubDate>
-            <sparkle:version>42</sparkle:version>
+            <pubDate>Sun, 22 Nov 2026 22:52:24 +0700</pubDate>
+            <sparkle:version>43</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<style>
@@ -34,11 +34,15 @@ code {
   background: rgba(128, 128, 128, 0.18);
 }
 </style>
-<h2>Có gì mới ở 0.1.0 (42)</h2>
+<h2>Có gì mới ở 0.1.0 (43)</h2>
+<h3>Đã cải thiện</h3>
+<ul><li>Menu trên thanh menu gọn hơn: không còn rộng thừa chiều ngang.</li><li>Số ID và PIN dùng cùng phông chữ với các dòng bên dưới.</li><li>Đường phân cách giữa ID và PIN hiện rõ ở cả chế độ Sáng lẫn Tối.</li><li>Rê chuột lên ID hoặc PIN có gợi ý bấm vào số để sao chép.</li></ul>
+<h3>Đã sửa</h3>
+<ul><li>Chấm trạng thái cạnh dòng "Sẵn sàng" không còn bị trắng khi menu ở nền sáng.</li></ul>
 <h3>Đã thay đổi</h3>
-<ul><li>Biểu tượng app mới: chiếc điều khiển màu vàng.</li><li>Biểu tượng trên thanh menu là chiếc điều khiển nghiêng, thay cho hình tivi cũ.</li></ul>
+<ul><li>Bỏ nút đổi mã PIN. PIN ngẫu nhiên vẫn tự đổi sau mỗi 5 phút.</li></ul>
 ]]></description>
-            <enclosure url="https://github.com/hnaht95/beam-app/releases/download/mac-42/Beam-0.1.0-42.zip" length="15035254" type="application/octet-stream" sparkle:edSignature="y5W4OS69n6EVjto6QFJz0f94x6FrVDZBcG+ChagOnoQSlkN2+NJDQaOB2/D/LwVsZwdrB+Ly/PzPL8VfQ4/QCQ=="/>
+            <enclosure url="https://github.com/hnaht95/beam-app/releases/download/mac-43/Beam-0.1.0-43.zip" length="15037995" type="application/octet-stream" sparkle:edSignature="UqbWvlhXTiBZj0gFmnmrs5ShjkyYP9JH3KgQZbItYeLtM3wvzTNTgr6mfge9MPaocpiJyLV5rgIoAggXn037DA=="/>
         </item>
     </channel>
 </rss>
