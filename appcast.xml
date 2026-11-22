@@ -3,12 +3,12 @@
     <channel>
         <title>Connect Host</title>
         <item>
-            <title>1.0</title>
-            <pubDate>Sun, 22 Nov 2026 11:54:43 +0700</pubDate>
-            <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <title>0.1.0</title>
+            <pubDate>Sun, 22 Nov 2026 11:59:53 +0700</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/hnaht95/beam-app/releases/download/mac-28/Beam-0.1.0-28.zip" length="14980897" type="application/octet-stream" sparkle:edSignature="cEH9dB9JzdTcQia1NszhE2GuqZW16eBwRRjuTK/S3JF21t0+FJclMClt6MC/rlRj5UsgmMFz3XmYoqIB36SdAQ=="/>
+            <enclosure url="https://github.com/hnaht95/beam-app/releases/download/mac-28/Beam-0.1.0-28.zip" length="14980917" type="application/octet-stream" sparkle:edSignature="iSR2u+aZX0kYy7k6hj7mzKUxNTeeW0IFVeW8bWARc0x7jbgPig4OUhGww6uLTQe3bpvpDRZ1doGQMcOFcznPAw=="/>
         </item>
     </channel>
 </rss>
