@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Connect Host</title>
+        <title>Beam Host</title>
         <item>
             <title>0.1.0</title>
-            <pubDate>Sun, 22 Nov 2026 11:59:53 +0700</pubDate>
-            <sparkle:version>28</sparkle:version>
+            <pubDate>Sun, 22 Nov 2026 12:18:23 +0700</pubDate>
+            <sparkle:version>29</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/hnaht95/beam-app/releases/download/mac-28/Beam-0.1.0-28.zip" length="14980917" type="application/octet-stream" sparkle:edSignature="iSR2u+aZX0kYy7k6hj7mzKUxNTeeW0IFVeW8bWARc0x7jbgPig4OUhGww6uLTQe3bpvpDRZ1doGQMcOFcznPAw=="/>
+            <enclosure url="https://github.com/hnaht95/beam-app/releases/download/mac-29/Beam-0.1.0-29.zip" length="14978819" type="application/octet-stream" sparkle:edSignature="pcI4D03foLVxavK6e5xSCAMInszDZCZtQzK5gyMFu33rXOyGsWW0Q1UXirq1rzOVlDPbmqtsRMYv3OxbsPgYDQ=="/>
         </item>
     </channel>
 </rss>
