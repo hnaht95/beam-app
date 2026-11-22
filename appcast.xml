@@ -4,10 +4,40 @@
         <title>Beam Host</title>
         <item>
             <title>0.1.0</title>
-            <pubDate>Sun, 22 Nov 2026 22:24:08 +0700</pubDate>
+            <pubDate>Sun, 22 Nov 2026 22:30:19 +0700</pubDate>
             <sparkle:version>42</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<style>
+:root { color-scheme: light dark; }
+body {
+  margin: 0;
+  padding: 10px 12px;
+  font: 13px/1.55 -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
+  color: CanvasText;
+  -webkit-font-smoothing: antialiased;
+}
+h2 { margin: 20px 0 9px; padding-top: 16px; font-size: 15px; font-weight: 600;
+      border-top: 1px solid rgba(128, 128, 128, 0.25); }
+h2:first-child { margin-top: 0; padding-top: 0; border-top: 0; }
+h3 { margin: 13px 0 5px; font-size: 13px; font-weight: 600; }
+h2 + h3 { margin-top: 0; }
+p { margin: 0 0 9px; }
+ul, ol { margin: 0 0 9px; padding-left: 21px; }
+li { margin-bottom: 6px; }
+li:last-child { margin-bottom: 0; }
+strong { font-weight: 600; }
+code {
+  font: 11.5px ui-monospace, "SF Mono", Menlo, monospace;
+  padding: 1px 4px;
+  border-radius: 4px;
+  background: rgba(128, 128, 128, 0.18);
+}
+</style>
+<h2>Có gì mới ở 0.1.0 (42)</h2>
+<h3>Đã thay đổi</h3>
+<ul><li>Biểu tượng app mới: chiếc điều khiển màu vàng.</li><li>Biểu tượng trên thanh menu là chiếc điều khiển nghiêng, thay cho hình tivi cũ.</li></ul>
+]]></description>
             <enclosure url="https://github.com/hnaht95/beam-app/releases/download/mac-42/Beam-0.1.0-42.zip" length="15035254" type="application/octet-stream" sparkle:edSignature="y5W4OS69n6EVjto6QFJz0f94x6FrVDZBcG+ChagOnoQSlkN2+NJDQaOB2/D/LwVsZwdrB+Ly/PzPL8VfQ4/QCQ=="/>
         </item>
     </channel>
