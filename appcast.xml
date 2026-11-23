@@ -4,8 +4,8 @@
         <title>Beam Host</title>
         <item>
             <title>0.1.0</title>
-            <pubDate>Mon, 23 Nov 2026 01:14:44 +0700</pubDate>
-            <sparkle:version>46</sparkle:version>
+            <pubDate>Mon, 23 Nov 2026 20:56:13 +0700</pubDate>
+            <sparkle:version>48</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<style>
@@ -34,13 +34,13 @@ code {
   background: rgba(128, 128, 128, 0.18);
 }
 </style>
-<h2>Có gì mới ở 0.1.0 (46)</h2>
+<h2>Có gì mới ở 0.1.0 (48)</h2>
 <h3>Đã sửa</h3>
-<ul><li>Các nút Mission Control, Cửa sổ ứng dụng và Màn hình nền trong cửa sổ điều khiển máy Mac khác đã hoạt động. Máy được điều khiển cũng cần cập nhật bản này.</li><li>Phím tắt có phím mũi tên hoặc phím F gửi sang Mac (như Control cùng mũi tên trái, phải để chuyển màn hình làm việc) giờ được nhận đúng.</li></ul>
+<ul><li>Kết nối lúc màn hình Mac đang tắt vì để lâu không dùng (ví dụ MacBook gập nắp cắm màn ngoài) giờ tự bật màn lên và vào được, không còn báo "Mac không quay được màn hình".</li></ul>
 <h3>Đã thay đổi</h3>
-<ul><li>Biểu tượng trên thanh công cụ của cửa sổ điều khiển giống app Chia sẻ màn hình của Apple.</li></ul>
+<ul><li>Menu trên thanh menu gọn hơn: bỏ dòng "Sẵn sàng" và chữ "cố định" cạnh ID và PIN. Dòng trạng thái chỉ hiện khi Mac không kết nối được máy chủ.</li></ul>
 ]]></description>
-            <enclosure url="https://github.com/hnaht95/beam-app/releases/download/mac-46/Beam-0.1.0-46.zip" length="15048028" type="application/octet-stream" sparkle:edSignature="AP9gti/ffUauZXjjMA1S9ag22nH0waNjintUpzxYQ+FMNIr+6Wx1YTVPs51KE2BQq4DM3zdyRJuGX2CwHp7TCQ=="/>
+            <enclosure url="https://github.com/hnaht95/beam-app/releases/download/mac-48/Beam-0.1.0-48.zip" length="15048631" type="application/octet-stream" sparkle:edSignature="ASpaJF6/96NVS6qAPcb93R7vG4zj8Lsaz28VxvD75Cx15pomds5aDP0qkVJHdkYdl3T0SxlmG8ATHAZj/+b9CQ=="/>
         </item>
     </channel>
 </rss>
