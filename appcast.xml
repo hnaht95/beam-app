@@ -4,8 +4,8 @@
         <title>Beam Host</title>
         <item>
             <title>0.1.0</title>
-            <pubDate>Mon, 23 Nov 2026 20:56:13 +0700</pubDate>
-            <sparkle:version>48</sparkle:version>
+            <pubDate>Wed, 25 Nov 2026 18:49:50 +0700</pubDate>
+            <sparkle:version>53</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<style>
@@ -34,13 +34,13 @@ code {
   background: rgba(128, 128, 128, 0.18);
 }
 </style>
-<h2>Có gì mới ở 0.1.0 (48)</h2>
-<h3>Đã sửa</h3>
-<ul><li>Kết nối lúc màn hình Mac đang tắt vì để lâu không dùng (ví dụ MacBook gập nắp cắm màn ngoài) giờ tự bật màn lên và vào được, không còn báo "Mac không quay được màn hình".</li></ul>
-<h3>Đã thay đổi</h3>
-<ul><li>Menu trên thanh menu gọn hơn: bỏ dòng "Sẵn sàng" và chữ "cố định" cạnh ID và PIN. Dòng trạng thái chỉ hiện khi Mac không kết nối được máy chủ.</li></ul>
+<h2>Có gì mới ở 0.1.0 (53)</h2>
+<h3>Đã thêm</h3>
+<ul><li>Bấm vào ô nhập trên Mac từ iPhone hoặc iPad thì bàn phím trên máy đó tự hiện, bấm ra chỗ khác thì tự ẩn. Cần app Beam trên iPhone bản mới.</li><li>Mục "Tắt màn hình" trên thanh menu: tắt màn hình nhưng Mac vẫn thức, điện thoại vẫn kết nối được. Kết nối vào thì màn hình tự sáng lại.</li><li>Ngoài PIN đổi mỗi 5 phút, Mac nhận thêm PIN cố định của bạn, dùng chung với máy Windows và Android, nên ghép thiết bị mới không cần đọc PIN đang hiện.</li></ul>
+<h3>Đã cải thiện</h3>
+<ul><li>Khi điều khiển máy Windows hoặc Android từ Mac, tên máy và các thông báo lỗi ghi đúng loại máy thay vì luôn ghi "Mac".</li></ul>
 ]]></description>
-            <enclosure url="https://github.com/hnaht95/beam-app/releases/download/mac-48/Beam-0.1.0-48.zip" length="15048631" type="application/octet-stream" sparkle:edSignature="ASpaJF6/96NVS6qAPcb93R7vG4zj8Lsaz28VxvD75Cx15pomds5aDP0qkVJHdkYdl3T0SxlmG8ATHAZj/+b9CQ=="/>
+            <enclosure url="https://github.com/hnaht95/beam-app/releases/download/mac-53/Beam-0.1.0-53.zip" length="15060177" type="application/octet-stream" sparkle:edSignature="VLtcntW65jjR2u7YijddLWggK7qk8ggaM2Afl/9EdsnZAFDAoQB9WbarNcCVGW5gaR85P58DSbR26zmAh/NGCQ=="/>
         </item>
     </channel>
 </rss>
