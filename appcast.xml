@@ -4,8 +4,8 @@
         <title>Beam Host</title>
         <item>
             <title>0.1.0</title>
-            <pubDate>Thu, 26 Nov 2026 08:44:36 +0700</pubDate>
-            <sparkle:version>56</sparkle:version>
+            <pubDate>Thu, 26 Nov 2026 09:26:12 +0700</pubDate>
+            <sparkle:version>57</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<style>
@@ -34,11 +34,13 @@ code {
   background: rgba(128, 128, 128, 0.18);
 }
 </style>
-<h2>Có gì mới ở 0.1.0 (56)</h2>
+<h2>Có gì mới ở 0.1.0 (57)</h2>
 <h3>Đã thay đổi</h3>
-<ul><li>Phần ID và PIN trên đầu menu gọn hơn: bớt khoảng trống bên dưới hai dãy số, đường kẻ dọc ở giữa ngắn lại cho vừa với chữ số.</li></ul>
+<ul><li>Bảo mật chặt hơn: Mac không còn nhận PIN chung cài sẵn trong app. Thay vào đó là PIN riêng do bạn tự đặt trong Cài đặt của app Beam trên iPhone; iPhone tự gửi PIN này cho Mac qua kết nối đã mã hóa. Cần app Beam trên iPhone bản mới.</li><li>PIN vừa dùng để ghép thiết bị hết hiệu lực ngay, không còn dùng lại được trong một phút sau đó.</li><li>Nhập sai PIN nhiều lần thì Mac khóa ghép thiết bị mới lâu dần, từ 5 phút đến tối đa 24 giờ. Thiết bị đã ghép vẫn vào bình thường.</li></ul>
+<h3>Đã sửa</h3>
+<ul><li>Một thiết bị lạ không còn giả được thiết bị đã ghép để vào Mac mà không cần PIN.</li><li>Một kết nối chưa xác thực không còn làm ngắt phiên đang xem của bạn.</li></ul>
 ]]></description>
-            <enclosure url="https://github.com/hnaht95/beam-app/releases/download/mac-56/Beam-0.1.0-56.zip" length="15064777" type="application/octet-stream" sparkle:edSignature="83VHoKhOvoVZ5P3oYBDavi3VtbQ1TZfd9KMW/dkhBbGpafdbpaolVatPtcc2DdQmxWKcusqyqOVq0xyzNj6jAw=="/>
+            <enclosure url="https://github.com/hnaht95/beam-app/releases/download/mac-57/Beam-0.1.0-57.zip" length="15071227" type="application/octet-stream" sparkle:edSignature="ADhhzPbamD9lQ/HOj1V/RRG7EUtUVxdjTEUeArrr0Lt56A8m9ZY9aJ3aVvtd1daAdNKIeewfz4FHBGgZptwoBw=="/>
         </item>
     </channel>
 </rss>
