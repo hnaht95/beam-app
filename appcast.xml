@@ -4,8 +4,8 @@
         <title>Beam Host</title>
         <item>
             <title>0.1.0</title>
-            <pubDate>Thu, 26 Nov 2026 08:40:11 +0700</pubDate>
-            <sparkle:version>55</sparkle:version>
+            <pubDate>Thu, 26 Nov 2026 08:44:36 +0700</pubDate>
+            <sparkle:version>56</sparkle:version>
             <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[<style>
@@ -34,13 +34,11 @@ code {
   background: rgba(128, 128, 128, 0.18);
 }
 </style>
-<h2>Có gì mới ở 0.1.0 (55)</h2>
+<h2>Có gì mới ở 0.1.0 (56)</h2>
 <h3>Đã thay đổi</h3>
-<ul><li>Bấm "Tắt màn hình" trên thanh menu giờ ngắt các phiên đang xem và báo cho iPhone hoặc iPad biết màn hình đã tắt, thay vì để màn hình tối đứng hình. Kết nối lại thì màn hình tự sáng.</li></ul>
-<h3>Đã cải thiện</h3>
-<ul><li>Khi điều khiển từ iPhone hoặc iPad, con trỏ chuột trên Mac được ẩn đi để không che nội dung. Động vào chuột hoặc bàn di chuột thật thì con trỏ hiện lại.</li></ul>
+<ul><li>Phần ID và PIN trên đầu menu gọn hơn: bớt khoảng trống bên dưới hai dãy số, đường kẻ dọc ở giữa ngắn lại cho vừa với chữ số.</li></ul>
 ]]></description>
-            <enclosure url="https://github.com/hnaht95/beam-app/releases/download/mac-55/Beam-0.1.0-55.zip" length="15064815" type="application/octet-stream" sparkle:edSignature="JG/c+Jz4KdDmply9HS//VH1l0pwdFijMLh7LJTnYgt8wJl1qqZwPin/RCMDg31J4SUBm05yIXxfs0mQv8avHCg=="/>
+            <enclosure url="https://github.com/hnaht95/beam-app/releases/download/mac-56/Beam-0.1.0-56.zip" length="15064777" type="application/octet-stream" sparkle:edSignature="83VHoKhOvoVZ5P3oYBDavi3VtbQ1TZfd9KMW/dkhBbGpafdbpaolVatPtcc2DdQmxWKcusqyqOVq0xyzNj6jAw=="/>
         </item>
     </channel>
 </rss>
